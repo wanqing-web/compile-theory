@@ -1,2 +1,2 @@
 # compile-theory
-some
+The learning route of my compile theory course.
